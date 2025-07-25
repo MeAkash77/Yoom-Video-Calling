@@ -7,14 +7,6 @@
 <h1 align="center">YOOM</h1>
 <p align="center">Build this project step by step with our detailed tutorial</p>
 
-
-  <h3 align="center"> YOOM </h3>
-
-   <div align="center">
-     Build this project step by step with our detailed tutorial 
-    </div>
-</div>
-
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 1. 🤖 [Introduction](#introduction)
