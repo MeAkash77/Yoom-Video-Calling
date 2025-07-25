@@ -21,9 +21,11 @@
 
 ## <a name="introduction">🤖 Login page </a>
 
+<img width="959" height="440" alt="Image" src="https://github.com/user-attachments/assets/2a65bdf8-3834-4445-a070-f53cf3c92a12" />
 
 ## <a name="introduction">🤖 Frontend </a>
 
+<img width="959" height="442" alt="Image" src="https://github.com/user-attachments/assets/9062760e-f5c4-4ba4-8cee-0d61fe97c3d4" />
 
 ## <a name="introduction">🤖 Introduction</a>
 
