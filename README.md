@@ -26,6 +26,11 @@
 - shadcn
 - Tailwind CSS
 
+  ## <a name="introduction">🤖 Introduction</a>
+
+Built with the latest Next.js and TypeScript, this project replicates Yoom, a widely used video conferencing tool. It enables users to securely log in, create meetings and access various meeting functionalities such as recording, screen sharing, and managing participants.
+
+
 ## <a name="features">🔋 Features</a>
 
 👉 **Authentication**: Implements authentication and authorization features using Clerk, allowing users to securely log in via social sign-on or traditional email and password methods, while ensuring appropriate access levels and permissions within the platform.
