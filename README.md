@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
-  <img src="https://img.shields.io/badge/-Next.js_14-black?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-Clerk-black?style=for-the-badge&logo=clerk&logoColor=white&color=3B49DF" alt="Clerk" />
-  <img src="https://img.shields.io/badge/-getStream-black?style=for-the-badge&logo=stream&logoColor=white&color=0061FE" alt="getStream" />
-  <img src="https://img.shields.io/badge/-shadcn_ui-black?style=for-the-badge&logo=shadcn&logoColor=white&color=444444" alt="shadcn" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/⚛️ React_JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
+  <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/🟦 TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/🔐 Clerk-3B49DF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk" />
+  <img src="https://img.shields.io/badge/📹 getStream-0061FE?style=for-the-badge&logo=livestream&logoColor=white" alt="getStream" />
+  <img src="https://img.shields.io/badge/✨ shadcn_UI-111827?style=for-the-badge&logo=radixui&logoColor=white" alt="shadcn" />
+  <img src="https://img.shields.io/badge/🌊 Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
 </p>
 
-<h3 align="center">YOOM</h3>
+<h3 align="center">🚀 YOOM</h3>
 <p align="center">Build this project step by step with our detailed tutorial</p>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
