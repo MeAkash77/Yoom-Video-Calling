@@ -19,6 +19,10 @@
 4. 🕸️ [Assets & Code](#snippets)
 5. 🚀 [More](#more)
 
+## <a name="introduction">🤖 FRONTEND </a>
+
+
+
 ## <a name="introduction">🤖 Introduction</a>
 
 Built with the latest Next.js and TypeScript, this project replicates Yoom, a widely used video conferencing tool. It enables users to securely log in, create meetings and access various meeting functionalities such as recording, screen sharing, and managing participants.
