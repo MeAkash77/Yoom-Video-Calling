@@ -13,6 +13,11 @@
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
+1. 🤖 [Introduction](#introduction)
+2. 🔋 [Features](#features)
+3. 🤸 [Quick Start](#quick-start)
+4. 🕸️ [Assets & Code](#snippets)
+5. 🚀 [More](#more)
 - React JS
 - Next.js 14
 - TypeScript
