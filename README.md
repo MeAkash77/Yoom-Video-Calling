@@ -51,7 +51,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/anisharya16/yoom.git
+git clone https://github.com/MeAkash77/Yoom-Video-Calling.git
 cd yoom
 ```
 
