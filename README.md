@@ -24,13 +24,13 @@
 Built with the latest Next.js and TypeScript, this project replicates Yoom, a widely used video conferencing tool. It enables users to securely log in, create meetings and access various meeting functionalities such as recording, screen sharing, and managing participants.
 
 
-React JS
-Next.js 14
-TypeScript
-Clerk (for User management and authentication)
-getStream (SDK for Video calling)
-shadcn
-Tailwind CSS
+- React JS
+- Next.js 14
+- TypeScript
+- Clerk (for User management and authentication)
+- getStream (SDK for Video calling)
+- shadcn
+- Tailwind CSS
 
 ## <a name="features">🔋 Features</a>
 
